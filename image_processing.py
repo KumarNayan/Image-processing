@@ -1,4 +1,4 @@
-#Image Processing using Convolutional Neural Network
+# Convolutional Neural Network
 
 # Importing the libraries
 import tensorflow as tf
